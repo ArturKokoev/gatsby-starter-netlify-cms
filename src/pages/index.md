@@ -1,16 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: '#SetzeEinZeichen und lebe #naturfein'
+image: /img/italy-1587287_960_720.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: >-
+  Nachhaltig. Plastikfrei. Wiederverwendbar.  Unsere Vision – für eine bessere
+  Welt!
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Unsere Mission
+  description: >-
+    Wir wollen mit unseren Produkten und Spendenaktionen so viele Menschen wie
+    es nur möglich ist, erreichen und sie auf ihr Konsumverhalten aufmerksam
+    machen! Gemeinsam gestalten wir die Welt plastikfrei und schützen sie vor
+    unnötigem Abfall! Und das alles ohne den Verzicht auf unsere
+    Lieblingsprodukte, sondern durch ein einfaches Ersetzen dieser durch
+    wiederverwendbare und langlebige Artikel.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +72,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
